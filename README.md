@@ -29,11 +29,4 @@
 
 ---
 
-## 🌟 Detalles Extras  
-
-🌷 **Diseñado por:** *Fernando Martínez Rodríguez*  
-🌈 **Objetivo:** Compartir mis avances, actividades y tutoriales de manera ordenada y visualmente agradable.  
-🩵 *Gracias por visitar mi repositorio 💕*
-
----
 
